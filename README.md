@@ -7,4 +7,5 @@ Kelompok 3 IF-46-05
 2. Muhammad Adlan Hafizha (1301223054)
 3. Hellen Allysa Putri (1301223067)
 4. Futihat Aunurrahma (1301223119)
-5. Jaya Saputra (1301223454)
+5. Muh. Agung Gustiansyah (1301223123)
+6. Jaya Saputra (1301223454)
